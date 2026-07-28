@@ -1,6 +1,5 @@
 # Bitcoin Market Sentiment and Trader Performance Analysis
 
-## Primetrade.ai Data Science Internship Assignment
 
 ### Author
 
